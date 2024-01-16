@@ -7,11 +7,11 @@
 
 # 🦝 Bienvenido!
 
-Mi nombre es **Alejandro Ramos**, soy un desarrollador de **software** aficionado a la **música** y el **diseño**. Me encanta aprender de todo y crear de todo. Actualmente estoy aprendiendo sobre **Inteligencia Artificial** y **Machine Learning**, pero me gusta programar de todo.
+Mi nombre es **Jorge Nureña**, soy un desarrollador de **software** aficionado a la **música** y el **diseño**. Me encanta aprender de todo y crear de todo. Actualmente estoy aprendiendo sobre **Diseño UX ** y **CMS**, pero me gusta programar de todo.
 
-[![Twitter](https://img.shields.io/twitter/follow/arhcoder?style=social)](https://twitter.com/arhcoder)
-[![GitHub](https://img.shields.io/github/followers/arhcoder?label=follow&style=social)](https://github.com/arhcoder)
-[![Linkedin](https://img.shields.io/badge/-Alejandro_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arhcoder/)](https://www.linkedin.com/in/arhcoder/)
+[![Twitter](https://img.shields.io/twitter/follow/arhcoder?style=social)](https://twitter.com/GeorgeTech-7)
+[![GitHub](https://img.shields.io/github/followers/arhcoder?label=follow&style=social)](https://github.com/GeorgeTech-7)
+[![Linkedin](https://img.shields.io/badge/-Alejandro_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arhcoder/)](https://www.linkedin.com/in/GeorgeTech-7/)
 <br>
 
 ___
