@@ -11,7 +11,7 @@ Mi nombre es **Jorge Nureña**, soy un desarrollador de **software** aficionado 
 
 [![Twitter](https://img.shields.io/twitter/follow/arhcoder?style=social)](https://twitter.com/GeorgeTech-7)
 [![GitHub](https://img.shields.io/github/followers/arhcoder?label=follow&style=social)](https://github.com/GeorgeTech-7)
-[![Linkedin](https://img.shields.io/badge/-Alejandro_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arhcoder/)](https://www.linkedin.com/in/GeorgeTech-7/)
+[![Linkedin](https://img.shields.io/badge/-Alejandro_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorge-Nureña/)](https://www.linkedin.com/in/GeorgeTech-7/)
 <br>
 
 ___
